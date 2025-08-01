@@ -1,0 +1,13 @@
+{
+  "app": {
+    "bundleName": "com.atomicservice.xxx",
+    "bundleType": "atomicService",
+    "vendor": "example",
+    "versionCode": 1000000,
+    "versionName": "1.0.1",
+    "icon": "$media:app_icon",
+    "label": "$string:app_name",
+    "minAPIVersion": 50000013,
+    "debug": false
+  }
+}
