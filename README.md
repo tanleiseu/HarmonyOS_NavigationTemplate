@@ -18,4 +18,4 @@ Github（官方）：https://github.com/AppGalleryConnect/agc-template-market-ha
 
 | 出行导航类（航空）行业模板 | 出行导航类（公交）行业模板 | 出行导航类（地铁）行业模板 |
 |:---:|:---:|:---:|
-| ![输入图片说明](AirTrip/Application/screenshot/home.jpeg)| ![输入图片说明](BusTravel/screenshots/%E9%A6%96%E9%A1%B5.jpeg) | ![输入图片说明](Metro/doc/1.png) |
+|![输入图片说明](%E8%88%AA%E7%A9%BA%E5%87%BA%E8%A1%8C%E5%85%83%E6%9C%8D%E5%8A%A1%E6%A8%A1%E6%9D%BF.png)| ![输入图片说明](%E5%85%AC%E4%BA%A4%E5%BA%94%E7%94%A8%E6%A8%A1%E6%9D%BF.png) |![输入图片说明](%E5%9C%B0%E9%93%81%E5%85%83%E6%9C%8D%E5%8A%A1%E6%A8%A1%E6%9D%BF.png) |
